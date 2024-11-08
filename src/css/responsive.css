@@ -1,0 +1,38 @@
+@media(max-width:1440px){
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } 
+    .container{
+        max-width: 720px;
+        align-items: center;
+        margin-top: 129px;
+        margin-bottom: 129px;
+        justify-content: center;
+    }
+
+}
+@media(max-width:720px){
+
+    .container{
+        display: block;
+        margin: 45px 0;
+        gap: 0;
+    }
+
+    .container .painting{
+        height: 431px;
+        width: 335px;
+        min-width: 335px;
+    }
+
+    .container .painting img{
+        height: 431px;
+    }
+
+    .container .painting .info{
+        bottom: 18px;
+        left: 22px;
+    }
+}

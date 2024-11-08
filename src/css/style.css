@@ -1,0 +1,100 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}
+
+.container .painting{
+    width: 335px;
+    height: 435px;
+    position: relative;
+}
+
+.container .painting img{
+    width: 100%;
+}
+
+.container .painting .info{
+    position: absolute;
+    bottom: 43px;
+    left: 20px;
+    color: #ffffff;
+}
+
+.painting .info .title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.painting .info .artist{
+    font-weight: 300;
+    font-size: 17px;
+}
+/*
+.painting .info-boat{
+    position: absolute;
+    width: 194px;
+    height: 60px;
+    left: 395px;
+    top: 457px;
+    color: #ffffff;
+}
+
+.painting .info-boat h1{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.painting .info-boat h3{
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.painting .info-sand-and-sea{
+    position: absolute;
+    left: 750px;
+    top: 457px;
+    color: #ffffff;
+    height: 60px;
+    width: 211px;
+}
+
+.painting .info-sand-and-sea h1{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.painting .info-sand-and-sea h3{
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.painting .info-starry-night{
+    position: absolute;
+    width: 194px;
+    height: 35px;
+    left: 1103px;
+    top: 457px;
+    color: #ffffff;
+}
+
+.painting .info-starry-night h1{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.painting .info-starry-night h3{
+    font-weight: 300;
+    font-size: 17px;
+} */
