@@ -16,15 +16,13 @@ Recriar o layout do desafio do frontend mentor, lista de imagens de pinturas fam
 
 ### Captura de tela
 
-![](./src/design/screenshot-advice-generator-app-desktop.png)
-![](./src/design/advice-generator-desktop-active-state.png)
-![](./src/design/screenshot-advice-generator-app-mobile.png)
-![](./src/design/advice-generator-mobile-active-state.png)
+![](./src/design/screenshot-exercicio-lista-de-imagens-pinturas-desktop.png)
+![](./src/design/screenshot-exercicio-lista-de-imagens-pinturas-mobile.png)
 
 ### Links
 
-- URL da solução: [https://github.com/PietroZanetelliDev/exercicio-css-avancado-advice-generator-app-main](https://github.com/PietroZanetelliDev/exercicio-css-avancado-advice-generator-app-main)
-- URL do site ativo: [https://pietrozanetellidev.github.io/exercicio-css-avancado-advice-generator-app-main/](https://pietrozanetellidev.github.io/exercicio-css-avancado-advice-generator-app-main/)
+- URL da solução: [https://github.com/PietroZanetelliDev/exercicio-css-avancado-lista-imagens-pinturas](https://github.com/PietroZanetelliDev/exercicio-css-avancado-lista-imagens-pinturas)
+- URL do site ativo: [https://pietrozanetellidev.github.io/exercicio-css-avancado-lista-imagens-pinturas/](https://pietrozanetellidev.github.io/exercicio-css-avancado-lista-imagens-pinturas/)
 
 ### Construído com
 
